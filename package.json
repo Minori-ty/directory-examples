@@ -22,7 +22,6 @@
         "drizzle-orm": "^0.44.2",
         "drizzle-zod": "^0.8.2",
         "enum-plus": "^2.4.2",
-        "eslint-config-expo": "^9.2.0",
         "expo": "53.0.20",
         "expo-blur": "~14.1.5",
         "expo-constants": "~17.1.7",
@@ -54,6 +53,7 @@
         "@types/react": "~19.0.10",
         "drizzle-kit": "^0.31.4",
         "eslint": "^9.25.0",
+        "eslint-config-expo": "^9.2.0",
         "typescript": "~5.8.3"
     },
     "private": true
